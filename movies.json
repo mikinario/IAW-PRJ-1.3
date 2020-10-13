@@ -1,0 +1,17 @@
+{
+    {
+        "movies" [
+            {
+                "name": "Prueba",
+                "category": "Acción"
+            },
+            {
+                "name": "Prueba",
+                "category": "Acción"
+            }
+        ]
+    },
+    {
+        "series" []
+    }
+}
